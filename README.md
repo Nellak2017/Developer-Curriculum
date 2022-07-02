@@ -8,6 +8,59 @@ The purpose of this is to not only have a reference for all the developer topics
 - [Table of Contents](#table-of-contents)
 - [Recommended Order of Topics](#recommended-order-of-topics)
 
+# How Subjects are Structured
+
+Subjects will have a common structure, so that learning is more efficient. 
+The structure is generally like so: 
+
+1. Concepts and Intuition - For example, what is a Derivative and why does it work, intuitively?
+2. Applications - For example, a Derivative may be used to find the minimum and maximum values of a given function.
+3. Examples - For example, d/dx(x^2) = 2x
+4. Exercises - Question 1: What is d/dx(2x^2)? ; Question 1 Answer: d/dx(2x^2) = 4x
+5. Cheat Sheets and Reference - List of all derivatives.
+
+# How the Code will be Structured
+
+Since we are following the structure of Subjects, we will have a standard format for the code and notes as well. 
+Below is the file structure that will be for a given subject:
+
+## Code Structure Template 
+
+Subject
+	|
+	|_Sub-Subject 
+		|
+		|_README.md (Concepts and Intuition, Applications, Examples)
+		|
+		|_Exercises
+		|	|
+		|	|_(subject) (section) exercises.md	
+		|   |
+		|   |_(subject) (section) exercise answers.md
+		|
+		|_Cheat Sheets and Reference
+			|
+			|_(subject) Cheat Sheet and Reference.md 
+		
+
+## Code Structure Example
+
+Programming Langauges
+	|
+	|_HTML 
+		|
+		|_README.md (Concepts and Intuition, Applications, Examples)
+		|
+		|_Exercises
+		|	|
+		|	|_HTML Forms exercises.md	
+		|   |
+		|   |_HTML Forms exercise answers.md
+		|
+		|_Cheat Sheets and Reference
+			|
+			|_HTML Cheat Sheet and Reference.md 
+
 # Recommended Order of Topics
 
 1. HTML 
