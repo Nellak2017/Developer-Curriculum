@@ -26,6 +26,7 @@ Below is the file structure that will be for a given subject:
 
 ## Code Structure Template 
 
+<pre>
 Subject
 	|
 	|_Sub-Subject 
@@ -41,10 +42,11 @@ Subject
 		|_Cheat Sheets and Reference
 			|
 			|_(subject) Cheat Sheet and Reference.md 
-		
+</pre>	
 
 ## Code Structure Example
 
+<pre>
 Programming Langauges
 	|
 	|_HTML 
@@ -60,6 +62,7 @@ Programming Langauges
 		|_Cheat Sheets and Reference
 			|
 			|_HTML Cheat Sheet and Reference.md 
+</pre>
 
 # Recommended Order of Topics
 
