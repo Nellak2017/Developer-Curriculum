@@ -6,6 +6,10 @@ The purpose of this is to not only have a reference for all the developer topics
 
 - [Developer-Curriculum](#developer-curriculum)
 - [Table of Contents](#table-of-contents)
+- [How Subjects are Structured](#how-subjects-are-structured)
+- [How the Code will be Structured](#how-the-code-will-be-structured)
+  * [Code Structure Template](#code-structure-template)
+  * [Code Structure Example](#code-structure-example)
 - [Recommended Order of Topics](#recommended-order-of-topics)
 
 # How Subjects are Structured
